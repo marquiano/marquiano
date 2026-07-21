@@ -29,43 +29,24 @@ Core domains include:
 ## Featured Projects
 
 | Project | Status |
-|----------|--------|
-| Enterprise AI Deployment Blueprint | 🚧 In Progress |
-| Customer AI Platform | 🚧 In Progress |
-| Production RAG | 🚧 In Progress |
-| AI Workflow Automation | 🚧 In Progress |
+| --- | --- |
+| [Enterprise AI Playbook](https://github.com/marquiano/enterprise-ai-playbook) | ✅ Active — canonical reference for Enterprise AI architecture, governance & operations |
+| [AI Knowledge Assistant (RAG)](https://github.com/marquiano/ai-knowledge-assistant-rag) | 🚧 Upgrading to production-grade (evaluation, testing, CI) |
 | AIMOS | ✅ Active |
-
----
-
-## Engineering Principles
-
-- Architecture First
-- Production over Prototypes
-- Governance by Design
-- Evidence over Hype
-- Simplicity at Scale
-
----
-
-## Current Focus
-
-Building enterprise AI platforms that organizations can operate, evaluate and continuously evolve.
 
 ---
 
 ## Roadmap
 
-- Enterprise AI Deployment Blueprint
-- Production AI Reference Architectures
-- AI Evaluation Framework
-- Enterprise Workflow Automation
+- Production-grade RAG reference implementation (evaluation, testing, CI/CD)
+- Enterprise AI Evaluation Framework
+- Case studies & implementation examples documented inside the Enterprise AI Playbook
 - GitHub Pages Engineering Portfolio
 
 ---
 
 ## Connect
 
-LinkedIn *(coming soon)*
+[LinkedIn](https://www.linkedin.com/in/marquiano/)
 
 Website *(coming soon)*
