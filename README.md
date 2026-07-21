@@ -1,14 +1,20 @@
-# Enterprise AI Systems
+<p align="center">
+  <img src="assets/banner/export/github-profile-banner.png" alt="Marquiano - Enterprise AI Systems" width="100%">
+</p>
 
-> From Strategy to Production.
+# Marquiano
+
+### Designing Enterprise AI Systems — From Strategy to Production
+
+I design enterprise AI systems that organizations can deploy, govern, evaluate and scale with confidence.
 
 ---
 
 ## About
 
-I help organizations design, deploy and govern enterprise AI systems that move beyond prototypes into production.
+My work focuses on transforming AI initiatives into production-ready systems through sound architecture, governance, deployment practices and operational excellence.
 
-My work focuses on:
+Core domains include:
 
 - Enterprise AI Architecture
 - AI Deployment
@@ -20,26 +26,22 @@ My work focuses on:
 
 ---
 
-## Engineering Portfolio
+## Featured Projects
 
-### Enterprise AI
-
-- Enterprise AI Deployment Blueprint *(coming soon)*
-- Customer AI Platform *(coming soon)*
-- Production RAG *(coming soon)*
-- AI Workflow Automation *(coming soon)*
-
-### Governance
-
-- AIMOS
-- AI Evaluation Framework *(coming soon)*
+| Project | Status |
+|----------|--------|
+| Enterprise AI Deployment Blueprint | 🚧 In Progress |
+| Customer AI Platform | 🚧 In Progress |
+| Production RAG | 🚧 In Progress |
+| AI Workflow Automation | 🚧 In Progress |
+| AIMOS | ✅ Active |
 
 ---
 
 ## Engineering Principles
 
 - Architecture First
-- Production Ready
+- Production over Prototypes
 - Governance by Design
 - Evidence over Hype
 - Simplicity at Scale
@@ -48,11 +50,22 @@ My work focuses on:
 
 ## Current Focus
 
-Building enterprise AI platforms that organizations can operate, evaluate and evolve.
+Building enterprise AI platforms that organizations can operate, evaluate and continuously evolve.
+
+---
+
+## Roadmap
+
+- Enterprise AI Deployment Blueprint
+- Production AI Reference Architectures
+- AI Evaluation Framework
+- Enterprise Workflow Automation
+- GitHub Pages Engineering Portfolio
 
 ---
 
 ## Connect
 
-- LinkedIn *(coming soon)*
-- Website *(coming soon)*
+LinkedIn *(coming soon)*
+
+Website *(coming soon)*
